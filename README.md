@@ -1,4 +1,4 @@
-# 1. GIT & GitHub
+# 1. Git Collaboration
 
 Actually, I am new to Git and for me it was a good stream of information. I set Git-It something to work out my skills and I will purposefully move on!
 
