@@ -1,6 +1,6 @@
 ## 1. Git Collaboration
 
-Actually, I am new to Git and for me it was a good stream of information. I set Git-It something to work out my skills and I will purposefully move on!
+Actually, I am new to Git and for me it was a good stream of information. I spent more than a week on git and a very pleasant incident happened to me. I went for a technical test where basic knowledge of networks and operating networks was required. But in my tests there were questions about the geet. And this surprised me pretty much, since nothing was said about it. That's how kotan prepared my sleeping consciousness for adventure)
 
 ![Image alt](https://github.com/bulletforyou11/kottans-backend/blob/master/task_git_collaboration/1.1.png)
 ![Image alt](https://github.com/bulletforyou11/kottans-backend/blob/master/task_git_collaboration/1.2.png)
